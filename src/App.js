@@ -12,6 +12,7 @@ function App() {
 			<div class="camera"></div>
 			<div class="screen">
       <iframe
+            title='liskride'
             src={'http://35.228.19.100:3000/'}
             width='320'
             height='570'
