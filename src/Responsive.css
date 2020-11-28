@@ -1,0 +1,47 @@
+@media only screen and (max-width: 1200px) {
+    .marvel-device {
+      -webkit-transform: scale(0.8);
+      -ms-transform: scale(0.8);
+      transform: scale(0.8);
+      -webkit-transform-origin: top left;
+      -ms-transform-origin: top left;
+      transform-origin: top left; } }
+  
+  @media only screen and (max-width: 1028px) {
+    .marvel-device {
+      -webkit-transform: scale(0.6);
+      -ms-transform: scale(0.6);
+      transform: scale(0.6); } }
+  
+  @media only screen and (max-width: 850px) {
+    .marvel-device {
+      -webkit-transform: scale(0.5);
+      -ms-transform: scale(0.5);
+      transform: scale(0.5); } }
+  
+  @media only screen and (max-width: 765px) {
+    .marvel-device {
+      transform: scale(0.6);
+      -webkit-transform-origin: top center;
+      -ms-transform-origin: top center;
+      transform-origin: top center; } }
+  
+  @media only screen and (max-width: 1028px) {
+    .fix-position {
+      position: fixed;
+      top: 90px; } }
+  
+  @media only screen and (max-width: 1028px) and (min-width: 940px) {
+    .fix-position {
+      margin: 35px; } }
+  
+  @media only screen and (max-width: 765px) {
+    .fix-position {
+      position: relative;
+      top: initial; } }
+  
+  @media only screen and (max-width: 1024px) {
+    .centered-tabled {
+      width: 260px;
+      margin: 0 auto; } }
+  
