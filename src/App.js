@@ -13,7 +13,7 @@ function App() {
 			<div class="screen">
       <iframe
             title='liskride'
-            src={'http://35.228.19.100:3000/'}
+            src={'https://lisk-ride.com/'}
             width='320'
             height='570'
             frameBorder='0'
